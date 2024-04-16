@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class test2 : MonoBehaviour
 {
+    [SerializeField] int speed;
     // Start is called before the first frame update
     void Start()
     {
